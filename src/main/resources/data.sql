@@ -1,0 +1,4 @@
+INSERT INTO USER_TBL (first_name, last_name, email) VALUES
+  ('Dhiraj', 'Singh', 'dks@gmail.com'),
+  ('Deja', 'Vu', 'xyz@email.com'),
+  ('Caption', 'America', 'cap@marvel.com');
